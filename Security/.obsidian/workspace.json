@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maquinas/HTB/Soccer (10.10.11.194).md",
+                "file": "Apuntes/Cosillas-que-no-entendemos-por-ahora.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maquinas/HTB/Soccer (10.10.11.194).md",
+                "file": "Apuntes/Cosillas-que-no-entendemos-por-ahora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maquinas/HTB/Soccer (10.10.11.194).md",
+                "file": "Apuntes/Cosillas-que-no-entendemos-por-ahora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maquinas/HTB/Soccer (10.10.11.194).md"
+                "file": "Apuntes/Cosillas-que-no-entendemos-por-ahora.md"
               }
             }
           }
@@ -160,8 +160,12 @@
   },
   "active": "6d5ad812b0a01d01",
   "lastOpenFiles": [
-    "imgs/Pasted image 20230306141442.png",
+    "Apuntes/Preliminares.md",
+    "Apuntes/NOSQL injection.md",
+    "gitignore.md",
+    "Apuntes/Cosillas-que-no-entendemos-por-ahora.md",
     "Maquinas/HTB/Soccer (10.10.11.194).md",
+    "imgs/Pasted image 20230306141442.png",
     "imgs/Pasted image 20230306143750.png",
     "imgs/Pasted image 20230306143326.png",
     "imgs/Pasted image 20230306143232.png",
@@ -171,11 +175,8 @@
     "imgs/Pasted image 20230306141621.png",
     "Maquinas/HTB/Precious(10.10.11.189).md",
     "Apuntes/Nmap.md",
-    "Apuntes/NOSQL injection.md",
-    "Apuntes/Preliminares.md",
     "Apuntes/Rev shell.md",
     "Apuntes/XSS.md",
-    "Apuntes/Cosillas que no entendemos por ahora.md",
     "Apuntes/curl.md",
     "imgs/Pasted image 20230303160238.png",
     "imgs/Pasted image 20230303170554.png",
